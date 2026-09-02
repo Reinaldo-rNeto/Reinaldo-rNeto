@@ -6,7 +6,7 @@
 
 </div>
 
-## ⚡ REINALDO_AI_CORE
+## ⚡ REINALDO AI CORE
 
 ```
 > REINALDO_SYSTEM v2.0
