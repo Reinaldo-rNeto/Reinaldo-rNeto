@@ -62,7 +62,7 @@ const reinaldo = {
 
 **Linguagens:** Python · Java · JavaScript · TypeScript
 
-**Ciência de Dados & Machine Learning:** scikit-learn · Pandas · NumPy · SciPy (testes estatísticos e de hipótese) · Jupyter Notebook · modelagem preditiva (regressão logística, árvore de decisão) · avaliação de modelos (matriz de confusão, ROC AUC, precisão/recall) · análise exploratória de dados (EDA)
+**Ciência de Dados & Machine Learning:** scikit-learn · Pandas · PySpark · NumPy · SciPy (testes estatísticos e de hipótese) · Jupyter Notebook · modelagem preditiva (regressão logística, árvore de decisão) · avaliação de modelos (matriz de confusão, ROC AUC, precisão/recall) · análise exploratória de dados (EDA)
 
 **Desenvolvimento Web:** HTML · CSS · Python Web (Flask, FastAPI, Streamlit) · PHP
 
