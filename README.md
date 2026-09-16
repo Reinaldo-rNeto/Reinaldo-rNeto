@@ -32,7 +32,7 @@ const reinaldo = {
   languages: { "pt-BR": "nativo", "en": "básico" },
 
   summary:
-    "Desenvolvedor e analista de dados com experiência em automação de " +
+    "Desenvolvedor e Cientista de Dadow com experiência em automação de " +
     "processos, raspagem e coleta de dados, pipelines de dados e " +
     "desenvolvimento de sistemas completos, APIs e aplicações web. Atuo " +
     "na área de tecnologia do setor público, produzindo soluções de " +
