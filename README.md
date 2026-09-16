@@ -92,6 +92,13 @@ const reinaldo = {
 
 ## 🚀 Featured Projects
 
+### Ciência de Dados
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 📈 [Churn Preditivo ATI](https://github.com/Reinaldo-rNeto/Churn_Preditivo_ATI) | Classificação de churn de clientes: limpeza, EDA, Regressão Logística e Árvore de Decisão, com avaliação completa (acurácia, precisão, recall, matriz de confusão, ROC AUC) e interpretação dos modelos | Python, scikit-learn, pandas, matplotlib, seaborn |
+| 📊 [Hipótese Churn](https://github.com/Reinaldo-rNeto/Hipotese_Churn) | Testes de hipótese (qui-quadrado e teste-t) validando estatisticamente quais fatores realmente influenciam o churn, com tamanho de efeito e discussão de causalidade | Python, SciPy, pandas, matplotlib, seaborn |
+
 ### Pessoais / Open Source
 
 | Projeto | Descrição | Stack |
