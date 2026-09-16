@@ -27,7 +27,7 @@ STATUS: ONLINE 🟣
 const reinaldo = {
   name: "Reinaldo Rodrigues",
   alias: "Reynas",
-  role: "Desenvolvedor e Analista de Dados",
+  role: "Desenvolvedor e Cientista de Dados",
   location: "Pernambuco, Brasil 🇧🇷",
   languages: { "pt-BR": "nativo", "en": "básico" },
 
