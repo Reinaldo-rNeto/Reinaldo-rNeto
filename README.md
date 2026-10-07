@@ -134,7 +134,7 @@ Testes de homologação de sistemas com a ferramenta Involves Eye3, verificando 
 
 **Sistemas de Informação** — UNINASSAU (2023–2026)
 
-**Cursos:** Microsoft Power BI Para Business Intelligence e Data Science · Fundamentos de Engenharia de Dados · Fundamentos de Data Science & Inteligência Artificial *(todos — Data Science Academy)*
+**Cursos:** Microsoft Power BI Para Business Intelligence e Data Science · Fundamentos de Engenharia de Dados · Fundamentos de Data Science & Inteligência Artificial *(todos — Data Science Academy) Bootcamp AWS web developer - DIO Google AI Essentials Certificado de Cibersegurança - IBM SkillsBuild Machine Learning for Data Science - IBM SkillsBuild Dados com Python & IA - DIO*
 
 ## 🎯 Current Mission
 
